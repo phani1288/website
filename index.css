@@ -1,0 +1,36 @@
+.heading{
+    color: green;
+}
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: gold;
+    height: 60px;
+}
+
+.nav-brand{
+    display: flex;
+}
+
+.brand-name{
+    color: red;
+    font-size: 35px;
+    padding-top: 10px;
+}
+.nav-links{
+    padding-top: 20px;
+    padding-left: 35px;
+    
+}
+
+.Accounts{
+    padding-top: 20px;
+    padding-right: 35px;
+}
+
+.nav-links a:hover{
+    background-color: white;
+    cursor: pointer;
+}
