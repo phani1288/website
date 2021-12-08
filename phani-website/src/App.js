@@ -4,7 +4,7 @@ function App() {
   return (
     <nav className="nav-bar">
         <div className="nav-brand">
-            <a className="brand-name" href="index.js">Phanindra</a>
+            <a className="brand-name" href="index.js">GPhanindra</a>
             <div className="nav-links">
                 <a href="index.js">Home</a>
                 <a href="index.js">Live Tv</a>
